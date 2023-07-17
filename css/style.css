@@ -418,7 +418,7 @@ img{
   border-radius: .5rem;
   justify-self: center;
 }
-@media screen and (max-width: 390px) {
+@media screen and (max-width: 428px) {
   .home__title, .home__subtitle {
     text-align: center;
   }
